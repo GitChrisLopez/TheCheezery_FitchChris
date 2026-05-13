@@ -1,4 +1,4 @@
-package com.chris.thecheezery_chrisfitch.data.database.entity
+package com.chris.thecheezery_chrisfitch.data
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity
